@@ -1,7 +1,7 @@
 <h1>Carrinho de compras</h1>
 
 <h2>🔖 Sobre</h2>
-<p>Projeto desenvolvido durante o curso de Javascript da alura.</p>
+<p>Projeto desenvolvido durante o curso de Javascript da alura, a idéia é simular um site de compras onde é possível inserir itens ao seu carrinho.</p>
 
 ## 🚀 Tecnologias
 <div>
