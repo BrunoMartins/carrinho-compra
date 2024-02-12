@@ -3,7 +3,7 @@
 <h2>🔖 Sobre</h2>
 <p>Projeto desenvolvido durante o curso de Javascript da alura, a idéia é simular um site de compras onde é possível inserir itens ao seu carrinho.</p>
 
-[Acessar a página]( https://brunomartins.github.io/carrinho-compra/)
+[Acessar a página]( https://carrinho-compra-red.vercel.app/)
 
 ## 🚀 Tecnologias
 <div>
